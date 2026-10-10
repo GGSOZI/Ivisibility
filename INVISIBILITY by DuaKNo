@@ -8,7 +8,4 @@ local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or 
  |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
          \/          \/         \/    \/                \/     \/     \/                   
           \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
- Invisibility by DuaKNo, if you want open sourced join the discord server
- Discord.gg/empgqd5qpq
-
 ]]--
